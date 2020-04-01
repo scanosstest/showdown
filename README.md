@@ -8,8 +8,6 @@
 [![Greenkeeper badge](https://badges.greenkeeper.io/showdownjs/showdown.svg)](https://greenkeeper.io/)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tiviesantos)
 
-
-
 ------
 
 Showdown is a Javascript Markdown to HTML converter, based on the original works by John Gruber.
